@@ -1,0 +1,1 @@
+This is a simple token created using the openzeppelin library.
